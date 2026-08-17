@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lovemorebusinessenterprise.co.za/sitemap.xml
